@@ -1,2 +1,2 @@
 # dind-buildx
-dind-buildx image for CI
+dind-buildx image for gitlab CI
